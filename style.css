@@ -1,3 +1,9 @@
 .form-registration{
 	padding-top: 120px;
 }
+
+.form-registration h1{
+	font-size: 26px;
+	margin-bottom: 40px;
+	margin-top: 0;
+}
